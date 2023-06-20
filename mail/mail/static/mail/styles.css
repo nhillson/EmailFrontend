@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-unread {
+   border: 1px black;
+   border-style: solid;
+   background-color: white;
+}
+
+.email-read {
+    border: 1px black;
+    border-style: solid;
+    background-color: gainsboro;
+}
